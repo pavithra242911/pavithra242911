@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Currently learning Frontend & Backend technologies
+🌱 Currently learning Frontend & Backend technologies
 
 🧠 Strong believer in learning by building, failing, and improving
 
