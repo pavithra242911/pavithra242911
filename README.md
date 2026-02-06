@@ -16,7 +16,6 @@
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavithrakadari05@gmail.com)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karishmamuskan4&layout=compact&theme=dark)
 
 ---
 ### 🛠️ Tech Stack
